@@ -1,0 +1,15 @@
+comm_round: 0 | global_acc: 1.210% | global_loss: 4.605146884918213
+comm_round: 1 | global_acc: 3.600% | global_loss: 4.604576110839844
+comm_round: 2 | global_acc: 6.240% | global_loss: 4.595138072967529
+comm_round: 3 | global_acc: 6.290% | global_loss: 4.597589015960693
+comm_round: 4 | global_acc: 8.800% | global_loss: 4.581589221954346
+comm_round: 5 | global_acc: 9.480% | global_loss: 4.577964782714844
+comm_round: 6 | global_acc: 11.490% | global_loss: 4.562291622161865
+comm_round: 7 | global_acc: 12.830% | global_loss: 4.556084156036377
+comm_round: 8 | global_acc: 14.730% | global_loss: 4.542151927947998
+comm_round: 9 | global_acc: 16.620% | global_loss: 4.52841854095459
+comm_round: 10 | global_acc: 18.600% | global_loss: 4.51719331741333
+comm_round: 11 | global_acc: 20.260% | global_loss: 4.5052924156188965
+comm_round: 12 | global_acc: 21.550% | global_loss: 4.494477272033691
+comm_round: 13 | global_acc: 23.000% | global_loss: 4.482505798339844
+comm_round: 14 | global_acc: 24.490% | global_loss: 4.468918323516846
