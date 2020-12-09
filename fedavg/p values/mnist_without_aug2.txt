@@ -1,0 +1,37 @@
+minst
+10eopchs/per
+15 comm
+without aug
+10 users
+p=0.6
+
+Saved model to disk
+comm_round: 0 | global_acc: 16.010% | global_loss: 2.3013272285461426
+Saved model to disk
+comm_round: 1 | global_acc: 41.190% | global_loss: 2.267502546310425
+Saved model to disk
+comm_round: 2 | global_acc: 54.220% | global_loss: 1.9882323741912842
+Saved model to disk
+comm_round: 3 | global_acc: 78.175% | global_loss: 1.8167818784713745
+Saved model to disk
+comm_round: 4 | global_acc: 89.040% | global_loss: 1.655683159828186
+Saved model to disk
+comm_round: 5 | global_acc: 93.130% | global_loss: 1.5790963172912598
+Saved model to disk
+comm_round: 6 | global_acc: 95.580% | global_loss: 1.530200719833374
+Saved model to disk
+comm_round: 7 | global_acc: 96.910% | global_loss: 1.5104647874832153
+Saved model to disk
+comm_round: 8 | global_acc: 97.965% | global_loss: 1.4891941547393799
+Saved model to disk
+comm_round: 9 | global_acc: 98.390% | global_loss: 1.482048511505127
+Saved model to disk
+comm_round: 10 | global_acc: 98.665% | global_loss: 1.4775961637496948
+Saved model to disk
+comm_round: 11 | global_acc: 98.935% | global_loss: 1.4729831218719482
+Saved model to disk
+comm_round: 12 | global_acc: 99.100% | global_loss: 1.4716227054595947
+Saved model to disk
+comm_round: 13 | global_acc: 99.200% | global_loss: 1.4704800844192505
+Saved model to disk
+comm_round: 14 | global_acc: 99.230% | global_loss: 1.4699187278747559
