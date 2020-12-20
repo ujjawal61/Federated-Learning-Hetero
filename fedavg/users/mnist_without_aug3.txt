@@ -1,0 +1,28 @@
+mnist
+10eopchs/per
+10 comm
+with aug
+20 users
+p=0.7
+resize to 14
+
+Saved model to disk
+comm_round: 0 | global_acc: 13.760% | global_loss: 2.3020071983337402
+Saved model to disk
+comm_round: 1 | global_acc: 27.770% | global_loss: 2.2954518795013428
+Saved model to disk
+comm_round: 2 | global_acc: 50.625% | global_loss: 2.2154805660247803
+Saved model to disk
+comm_round: 3 | global_acc: 67.700% | global_loss: 1.9094910621643066
+Saved model to disk
+comm_round: 4 | global_acc: 81.275% | global_loss: 1.753414273262024
+Saved model to disk
+comm_round: 5 | global_acc: 92.005% | global_loss: 1.5847389698028564
+Saved model to disk
+comm_round: 6 | global_acc: 94.080% | global_loss: 1.543107032775879
+Saved model to disk
+comm_round: 7 | global_acc: 93.465% | global_loss: 1.5427292585372925
+Saved model to disk
+comm_round: 8 | global_acc: 96.610% | global_loss: 1.4993629455566406
+Saved model to disk
+comm_round: 9 | global_acc: 97.285% | global_loss: 1.490557074546814

@@ -1,0 +1,28 @@
+mnist
+10eopchs/per
+10 comm
+with aug
+5 users
+p=0.7
+resize to 14
+6 aug images
+Saved model to disk
+comm_round: 0 | global_acc: 16.875% | global_loss: 2.3000690937042236
+Saved model to disk
+comm_round: 1 | global_acc: 51.915% | global_loss: 2.121615171432495
+Saved model to disk
+comm_round: 2 | global_acc: 63.480% | global_loss: 2.055926561355591
+Saved model to disk
+comm_round: 3 | global_acc: 82.495% | global_loss: 1.7563927173614502
+Saved model to disk
+comm_round: 4 | global_acc: 88.645% | global_loss: 1.6703507900238037
+Saved model to disk
+comm_round: 5 | global_acc: 94.310% | global_loss: 1.5767273902893066
+Saved model to disk
+comm_round: 6 | global_acc: 96.000% | global_loss: 1.5329111814498901
+Saved model to disk
+comm_round: 7 | global_acc: 96.895% | global_loss: 1.5275609493255615
+Saved model to disk
+comm_round: 8 | global_acc: 97.850% | global_loss: 1.4925450086593628
+Saved model to disk
+comm_round: 9 | global_acc: 98.125% | global_loss: 1.4909478425979614
